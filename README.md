@@ -1,4 +1,4 @@
-# CodeSoft
+# CodSoft
 ---
 
 # Landing-Page
